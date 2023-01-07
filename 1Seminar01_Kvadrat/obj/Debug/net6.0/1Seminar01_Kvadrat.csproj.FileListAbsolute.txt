@@ -1,0 +1,15 @@
+D:\GB\3. Знак-во с прогр. C#\3. Seminar\1Seminar01_Kvadrat\bin\Debug\net6.0\1Seminar01_Kvadrat.exe
+D:\GB\3. Знак-во с прогр. C#\3. Seminar\1Seminar01_Kvadrat\bin\Debug\net6.0\1Seminar01_Kvadrat.deps.json
+D:\GB\3. Знак-во с прогр. C#\3. Seminar\1Seminar01_Kvadrat\bin\Debug\net6.0\1Seminar01_Kvadrat.runtimeconfig.json
+D:\GB\3. Знак-во с прогр. C#\3. Seminar\1Seminar01_Kvadrat\bin\Debug\net6.0\1Seminar01_Kvadrat.dll
+D:\GB\3. Знак-во с прогр. C#\3. Seminar\1Seminar01_Kvadrat\bin\Debug\net6.0\1Seminar01_Kvadrat.pdb
+D:\GB\3. Знак-во с прогр. C#\3. Seminar\1Seminar01_Kvadrat\obj\Debug\net6.0\1Seminar01_Kvadrat.csproj.AssemblyReference.cache
+D:\GB\3. Знак-во с прогр. C#\3. Seminar\1Seminar01_Kvadrat\obj\Debug\net6.0\1Seminar01_Kvadrat.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\3. Знак-во с прогр. C#\3. Seminar\1Seminar01_Kvadrat\obj\Debug\net6.0\1Seminar01_Kvadrat.AssemblyInfoInputs.cache
+D:\GB\3. Знак-во с прогр. C#\3. Seminar\1Seminar01_Kvadrat\obj\Debug\net6.0\1Seminar01_Kvadrat.AssemblyInfo.cs
+D:\GB\3. Знак-во с прогр. C#\3. Seminar\1Seminar01_Kvadrat\obj\Debug\net6.0\1Seminar01_Kvadrat.csproj.CoreCompileInputs.cache
+D:\GB\3. Знак-во с прогр. C#\3. Seminar\1Seminar01_Kvadrat\obj\Debug\net6.0\1Seminar01_Kvadrat.dll
+D:\GB\3. Знак-во с прогр. C#\3. Seminar\1Seminar01_Kvadrat\obj\Debug\net6.0\refint\1Seminar01_Kvadrat.dll
+D:\GB\3. Знак-во с прогр. C#\3. Seminar\1Seminar01_Kvadrat\obj\Debug\net6.0\1Seminar01_Kvadrat.pdb
+D:\GB\3. Знак-во с прогр. C#\3. Seminar\1Seminar01_Kvadrat\obj\Debug\net6.0\1Seminar01_Kvadrat.genruntimeconfig.cache
+D:\GB\3. Знак-во с прогр. C#\3. Seminar\1Seminar01_Kvadrat\obj\Debug\net6.0\ref\1Seminar01_Kvadrat.dll
