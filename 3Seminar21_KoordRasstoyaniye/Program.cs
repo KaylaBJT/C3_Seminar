@@ -12,4 +12,4 @@ double distance = 0;
 //√((xb - xa)2 + (yb - ya)2)
 
 distance = Math.Sqrt(Math.Pow(xA - xB, 2) + Math.Pow(yA - yB, 2));
-Console.WriteLine(Math.Round(distance, 3));
+Console.WriteLine(Math.Round(distance, 3));  //MR - округление числа distance до 3 чисел после зпт
