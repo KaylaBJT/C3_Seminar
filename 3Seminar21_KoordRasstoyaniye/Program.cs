@@ -9,7 +9,7 @@ Console.Write("Введите координату y для точки B: ");
 int yB = int.Parse(Console.ReadLine());
 double distance = 0;
 
-
+//√((xb - xa)2 + (yb - ya)2)
 
 distance = Math.Sqrt(Math.Pow(xA - xB, 2) + Math.Pow(yA - yB, 2));
 Console.WriteLine(Math.Round(distance, 3));
