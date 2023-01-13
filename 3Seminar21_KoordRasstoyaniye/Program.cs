@@ -12,4 +12,4 @@ double distance = 0;
 
 
 distance = Math.Sqrt(Math.Pow(xA - xB, 2) + Math.Pow(yA - yB, 2));
-Console.WriteLine(distance);
+Console.WriteLine(Math.Round(distance, 3));
